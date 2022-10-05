@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameshuang12
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning how to integrate
 - 💞️ I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me email me
 
