@@ -2,7 +2,8 @@ Hi there, my name is James Huang.
 I am a sophomore at Vanderbilt University studying computer science and math.
 
 Languages I know:
-python cplusplus
+python [cplusplus-original](https://user-images.githubusercontent.com/114640234/210699159-f5afbdbe-8c99-482f-89db-757747e67d99.svg)
+
 
 About me:
 - 👀 I’m interested in quantitative data analysis, 
