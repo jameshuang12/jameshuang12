@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jameshuang12
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to integrate
-- 💞️ I’m looking to collaborate on anything I can get my hands on
-- 📫 How to reach me email me
+Hi there, my name is James Huang.
+I am a sophomore at Vanderbilt University studying computer science and math.
 
-<!---
-jameshuang12/jameshuang12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages I know:
+python cplusplus
+
+About me:
+- 👀 I’m interested in quantitative data analysis, 
+- 🌱 I’m currently learrning about intermediate software design
+- 💞️ I’m looking to create small projects that I can showcase my coding skills
+- 📫 The best way to reach me is to email me
