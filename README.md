@@ -3,7 +3,7 @@ I am a sophomore at Vanderbilt University studying computer science and math wit
 
 Languages I know:
 
-![image][(https://user-images.githubusercontent.com/114640234/210699272-aff4c8a6-f77e-4309-97bc-6282ccf1939f.png)]
+![image][[(https://user-images.githubusercontent.com/114640234/210699272-aff4c8a6-f77e-4309-97bc-6282ccf1939f.png)]](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 
 ![image](https://user-images.githubusercontent.com/114640234/210699228-279b39bd-9fcc-4a4d-acf2-3d6e94244260.png)
 
