@@ -3,12 +3,12 @@
 
 I am a rising junior at Vanderbilt University studying computer science and mathematics with a minor in human and organizational development.
 
-Languages I know:
+### Languages I know:
 
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 
-About me:
+### About me:
 
 - 👀 I’m interested in full stack, software integration, and quantitative trading.
 - 🌱 I am currently learrning about Swift, React, JavaScript, and HTML
