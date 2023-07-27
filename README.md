@@ -5,12 +5,12 @@ I am currently a rising junior at Vanderbilt University, where I am pursuing a d
 
 ### Languages I know:
 
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-orignal.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg)
-  [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-orignal.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg)
-  [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-orignal.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg)
-  [ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-orignal.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 
 ### About me:
 
