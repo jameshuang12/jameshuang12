@@ -1,7 +1,7 @@
 
-# 👋 Hi there, my name is James Huang. 
+# 👋 Hi there! Welcome to my Github account. 
 
-I am currently a rising junior at Vanderbilt University, where I am pursuing a double major in Computer Science and Applied Mathematics, along with a minor in Human and Organizational Development.
+My name is James Huang. I am currently a rising junior at Vanderbilt University, where I am pursuing a double major in Computer Science and Applied Mathematics, along with a minor in Human and Organizational Development.
 
 ### Languages I know:
 
@@ -13,9 +13,9 @@ I am currently a rising junior at Vanderbilt University, where I am pursuing a d
 
 ### About me:
 
-- 👀 I’m interested in Quantitative Trading, Software Integration, and Full-Stack Development.
+- 👀 I’m currently interested in Quantitative Trading/Analyst, Software/System Engineering, and Full-Stack Development.
 - 🌱 I am currently learrning about HTML, CSS, and MySQL.
-- 💞️ I plan on creating more projects that can showcase my coding skills.
+- 💞️ I plan on creating more projects that can showcase my programming skills.
 - 📫 The best way to reach me is to email me, james.huang.1@vanderbilt.edu.
 
-# Thanks for checking out my Github Account.
+# Thanks for checking out my Github account. :)
