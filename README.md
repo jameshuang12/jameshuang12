@@ -1,5 +1,5 @@
 
-# 👋 Hi Traveler! Welcome to The James Huang's Github Account. 
+# 👋 Hi Traveler! Welcome The James Huang's Github Account. 
 
 My name is James Huang. I am currently a senior at Vanderbilt University, pursuing a double major in Computer Science and Applied Mathematics, along with a minor in Human and Organizational Development.
 
