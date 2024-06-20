@@ -17,7 +17,7 @@ My name is James Huang. I am currently a senior at Vanderbilt University, pursui
 ### About me:
 
 - 👀 I’m interested in a career field of Quantitative Developer or Software/Systems Engineering roles.
-- 🌱 I'm currently learrning about Kubernetes, Docker, NestJS, Helm Charts, MySQL, and Low-Latency Trading Systems.
+- 🌱 I'm currently learrning about Kubernetes, Docker, Helm Charts, MySQL, and Low-Latency Trading Systems.
 - 💞️ I plan to utilize my account to showcase my programming and professional skills.
 - 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu.
 
