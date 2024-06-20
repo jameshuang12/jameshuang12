@@ -21,4 +21,4 @@ My name is James Huang. I am currently a senior at Vanderbilt University, pursui
 - 💞️ I plan to utilize my account to showcase my programming and professional skills.
 - 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu.
 
-# Thanks For Visiting My Github Account., Bye. :)
+# Thanks For Visiting My Github Account., Bye👋  :)
