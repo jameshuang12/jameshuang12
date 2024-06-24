@@ -1,9 +1,9 @@
 
 # 👋 Hi Traveler! Welcome To James Huang's Github Account. 
 
-My name is James Huang. I am currently a senior at Vanderbilt University, pursuing a double major in Computer Science and Applied Mathematics, along with a minor in Human and Organizational Development.
+My name is James Huang. I'm currently a senior at Vanderbilt University pursuing a double major in Computer Science and Applied Mathematics, along with a minor in Human and Organizational Development.
 
-### Tech Stacks I know:
+### Tech Stacks I Have Experience In:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -14,7 +14,7 @@ My name is James Huang. I am currently a senior at Vanderbilt University, pursui
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
-### About me:
+### About Me:
 
 - 👀 I’m interested in a career field of Quantitative Developer or Software/Systems Engineering roles.
 - 🌱 I'm currently learrning about Kubernetes, Docker, Helm Charts, MySQL, and Low-Latency Trading Systems.
