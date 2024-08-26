@@ -48,8 +48,8 @@ I am currently a senior at Vanderbilt University pursuing a double major in Comp
 ### About Me:
 
 - 👀 I’m interested in a career field of Quantitative Developer or Software/Systems Engineering roles.
-- 🌱 I'm currently learning about Helm Charts, Docker, FastAPI, and a Low-Latency Trading System.
+- 🌱 I'm currently learning about Low-Latency Trading Systems.
 - 💞️ I plan to utilize my GitHub account to showcase my programming and professional skills.
 - 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu.
 
-# Thanks For Visiting My Github Account., Bye👋  :)
+# Thanks For Visiting My Github Account. Goodbye👋 :)
