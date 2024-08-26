@@ -25,7 +25,7 @@ My name is James Huang and I'm currently a senior at Vanderbilt University pursu
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="(https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;\
+<img src="(https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 
 ### About Me:
