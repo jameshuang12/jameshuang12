@@ -1,6 +1,6 @@
 # 👋 Hi Traveler! Welcome To James Huang Github Account. 
 
-I am currently a senior at Vanderbilt University pursuing a double major in Computer Science and Applied Mathematics.
+I am a senior at Vanderbilt University pursuing a double major in Computer Science and Applied Mathematics.
 
 ### Tech Stacks I Have Experience In:
 
