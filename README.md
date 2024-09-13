@@ -46,8 +46,8 @@ I am a senior at Vanderbilt University double majoring in Computer Science and A
 ### About Me:
 
 - 👀 I’m interested in a career field of Quantitative Developer or Software Engineering/Developer roles.
-- 🌱 I'm currently learning about Low-Latency Trading Systems, react, and rust.
+- 🌱 I'm currently learning about C++ Low-Latency Trading Systems, React, and Rust.
 - 💞️ I plan to utilize my GitHub account to showcase my programming and professional skills.
-- 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu.
+- 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu
 
 # Thanks For Visiting My Github Account. Goodbye👋 :)
