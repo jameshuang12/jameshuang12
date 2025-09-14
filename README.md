@@ -1,6 +1,6 @@
-# 👋 Hi Traveler! Welcome To James Huang Github Account. 
+# 👋 Hi Traveler! Welcome To James Huang's Github Account. 
 
-I am a senior at Vanderbilt University double majoring in Computer Science and Applied Mathematics.
+I recently graduated from Vanderbilt University, double majoring in Computer Science and Applied Mathematics. I am currently working at IBM as a Platform Engineer.
 
 ### Tech Stacks I Have Experience In:
 
@@ -46,8 +46,8 @@ I am a senior at Vanderbilt University double majoring in Computer Science and A
 ### About Me:
 
 - 👀 I’m interested in a career field of Quantitative Developer or Software Engineering/Developer roles.
-- 🌱 I'm currently learning about C++ Low-Latency Trading Systems, React, and Rust.
+- 🌱 I'm currently learning about C++ Low-Latency Trading Systems.
 - 💞️ I plan to utilize my GitHub account to showcase my programming and professional skills.
 - 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu
 
-# Thanks For Visiting My Github Account. Goodbye👋 :)
+# Thank you for visiting my Github account. Goodbye👋 :)
