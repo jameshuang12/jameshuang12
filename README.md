@@ -48,6 +48,6 @@ I recently graduated from Vanderbilt University, double majoring in Computer Sci
 - 👀 I’m interested in a career field of Quantitative Developer or Software Engineering/Developer roles.
 - 🌱 I'm currently learning about C++ Low-Latency Trading Systems.
 - 💞️ I plan to utilize my GitHub account to showcase my programming and professional skills.
-- 📫 The best way to reach me is email: james.huang.1@vanderbilt.edu
+- 📫 The best way to reach me is email: jameshuang.business@gmail.com
 
 # Thank you for visiting my Github account. Goodbye👋 :)
