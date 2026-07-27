@@ -52,7 +52,7 @@ I recently graduated from Vanderbilt University, double majoring in Computer Sci
 
 ### About Me:
 
-- 👀 I’m interested in Quantitative Developer, Software Engineering/Developer, AI, and ML roles.
+- 👀 I’m interested in Quantitative Developer, Software Engineering, and Solution or Forward Deploy Egnineering roles.
 - 🌱 I'm currently learning about AI Agents and optimizing AI usage.
 - 💞️ I plan to utilize my GitHub account to showcase my programming and professional skills.
 - 📫 The best way to reach me is email: jameshuang.business@gmail.com
