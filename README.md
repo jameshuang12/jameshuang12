@@ -31,7 +31,7 @@ I recently graduated from Vanderbilt University, double majoring in Computer Sci
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
 #### DevOps & Platforms:
-<img src="https://github.com/devicons/devicon/blob/master/icons/openshift/openshift-original.svg" title="OpenShift" alt="OpenShift" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" title="OpenShift" alt="OpenShift" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
