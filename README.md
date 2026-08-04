@@ -18,10 +18,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=👋%20About%20Me&fontSize=22&fontColor=ffffff&fontAlign=15&fontAlignY=55" width="100%"/>
 
-- 🏢 Platform Engineer at **IBM**, New York — building cloud-native infrastructure and CI/CD pipelines
-- 🎓 Vanderbilt University '25 — double major in **Computer Science** and **Applied Mathematics**
+- 🏢 Platform Engineer at **IBM**, New York
+- 🎓 Vanderbilt University '25 — studied **Computer Science** and **Applied Mathematics**
 - 🤖 Currently learning about **AI Agents** and how to deploy them well in production
-- 👀 Open to roles in **Software Engineering**, **Quantitative Development**, and **Solution / Forward Deployed Engineering**
+- 👀 Passionate about **Software Engineering**, **Quantitative Development**, and **Solution / Forward Deployed Engineering**
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Back-End**
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,flask,rabbitmq)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" height="48"/>
 
@@ -47,7 +47,7 @@
 
 **DevOps & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,gitlab,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,ansible,git,github,gitlab,bitbucket)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="48"/>
@@ -57,11 +57,24 @@
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,clion,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,clion,postman,qt)](https://skillicons.dev)
 <br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" height="48"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="48"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=🤖%20AI%20Tools&fontSize=22&fontColor=ffffff&fontAlign=12&fontAlignY=55" width="100%"/>
+
+<p>
+<img src="https://img.shields.io/badge/IBM%20Bob-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="48"/>
+</p>
 
 ---
 
@@ -71,10 +84,11 @@ I'm most responsive on LinkedIn — feel free to DM me if you want to connect, t
 
 <p>
   <a href="https://linkedin.com/in/james-huang12">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:jameshuang.business@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jameshuang.business%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
 
