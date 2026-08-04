@@ -22,6 +22,7 @@
 - 🎓 Vanderbilt University '25 — double major in **Computer Science** and **Applied Mathematics**
 - 🤖 Currently learning about **AI Agents** and how to deploy them well in production
 - 👀 Open to roles in **Software Engineering**, **Quantitative Development**, and **Solution / Forward Deployed Engineering**
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=🛠️%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlign=14&fontAlignY=55" width="100%"/>
