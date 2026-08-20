@@ -19,8 +19,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=👋%20About%20Me&fontSize=22&fontColor=ffffff&fontAlign=15&fontAlignY=55" width="100%"/>
 
 - 🏢 Platform Engineer at **IBM**, New York
-- 🎓 Vanderbilt University '25 — studied **Computer Science** and **Applied Mathematics**
-- 🤖 Currently learning about **AI Agents** and how to deploy them well in production
+- 🎓 Vanderbilt University '25 studied **Computer Science** and **Mathematics**
+- 🤖 Currently learning about **AI Agents** and building a medical application
 - 👀 Passionate about **Software Engineering**, **Quantitative Development**, and **Solution / Forward Deployed Engineering**
 
 ---
