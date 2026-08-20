@@ -78,9 +78,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=📬%20Get%20In%20Touch&fontSize=22&fontColor=ffffff&fontAlign=16&fontAlignY=55" width="100%"/>
-
-I'm most responsive on LinkedIn — feel free to DM me if you want to connect, talk about a role, or just chat about tech. If you're reaching out about a role, including the position and company upfront helps me get back to you faster.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2342,100:00B4D8&height=50&section=header&text=📬%20Happy%20To%20Connect&fontSize=22&fontColor=ffffff&fontAlign=16&fontAlignY=55" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/james-huang12">
